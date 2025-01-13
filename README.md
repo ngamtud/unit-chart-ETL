@@ -99,7 +99,22 @@ The **Unit Chart ETL Web Application** is a lightweight, browser-based tool desi
 | 4   | Thailand  | Orange  | 4             | 0            |
 | 5   | Korea     | Blue    | 1             | 0            |
 
+### **Sample CSV**
+```
+main,color,value
+Thailand,p1,100
+Thailand,p1,200
+Thailand,p2,300
+Thailand,p2,400
+Thailand,p3,500
+Korea,p1,600
+Korea,p1,700
+Korea,p2,800
+Korea,p2,900
+Korea,p3,1000
+```
 ---
+
 
 ## Acknowledgements
 - Developed by **Viz Craft Studio** for educational purposes.
