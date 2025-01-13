@@ -24,11 +24,11 @@ header {
   padding: 20px;
   text-align: center;
   background-color: #424769; /* Header background */
-  color: #F6B17A;
+  color: #FFFFFF;
 }
 
 header h1 {
-  font-size: 2.5em;
+  font-size: 4em;
   font-weight: 700;
   margin: 0;
 }
