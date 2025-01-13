@@ -1,0 +1,61 @@
+/* Light Theme */
+body.light {
+  background-color: #f9f9f9;
+  color: #2D3250;
+}
+
+header.light {
+  background-color: #2D3250;
+  color: #F6B17A;
+}
+
+#upload-section.light {
+  background-color: #7077A1;
+}
+
+.drag-drop.light {
+  background-color: #424769;
+  color: #F6B17A;
+  border-color: #F6B17A;
+}
+
+#upload-button.light {
+  background-color: #F6B17A;
+  color: #2D3250;
+}
+
+footer.light {
+  background-color: #2D3250;
+  color: #F6B17A;
+}
+
+/* Dark Theme */
+body.dark {
+  background-color: #2D3250;
+  color: #F6B17A;
+}
+
+header.dark {
+  background-color: #7077A1;
+  color: #F6B17A;
+}
+
+#upload-section.dark {
+  background-color: #424769;
+}
+
+.drag-drop.dark {
+  background-color: #2D3250;
+  color: #F6B17A;
+  border-color: #F6B17A;
+}
+
+#upload-button.dark {
+  background-color: #F6B17A;
+  color: #2D3250;
+}
+
+footer.dark {
+  background-color: #424769;
+  color: #F6B17A;
+}
