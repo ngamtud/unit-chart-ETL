@@ -179,7 +179,6 @@ document.addEventListener("DOMContentLoaded", () => {
     container.innerHTML = `<table class="preview-table">
       <thead>
         <tr>
-          <th>ID</th>
           <th>Main</th>
           <th>Color</th>
           <th>Span Position</th>
@@ -191,7 +190,6 @@ document.addEventListener("DOMContentLoaded", () => {
           .map(
             (row) =>
               `<tr>
-                <td>${row.id}</td>
                 <td>${row.main}</td>
                 <td>${row.color}</td>
                 <td>${row.span}</td>
